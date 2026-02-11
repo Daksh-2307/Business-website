@@ -25,12 +25,6 @@ This is a **professional business website** template designed for small business
 
 ---
 
-## Preview
-![Business Website Screenshot](project )  
-*(Replace with your actual image path)*
-
----
-
 ## Live Demo
 Check the live demo here: [Business Website Live](https://business-websiteee.netlify.app/)  
 
