@@ -29,8 +29,3 @@ This is a **professional business website** template designed for small business
 Check the live demo here: [Business Website Live](https://business-websiteee.netlify.app/)  
 
 ---
-
-## Installation / Usage
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/business-website.git
